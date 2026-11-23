@@ -1,4 +1,6 @@
-## Peter F. Renz
+![Peter F. Renz: data science, ML and AI for oncology drug discovery](assets/banner.svg)
+
+![Peter F. Renz: data science, ML and AI for oncology drug discovery](assets/banner.svg)
 
 **Computational oncology scientist. I build data science and ML and AI workflows for cancer drug discovery.**
 
@@ -7,6 +9,8 @@ Senior Scientist at RedRidge Bio in Basel, working on antibody-drug conjugates: 
 I pre-register analyses where I can and publish the result either way.
 
 ### Selected work
+
+![Project map: one question per project, along the drug discovery path](assets/project_map.svg)
 
 | Project | What it shows |
 |---|---|
