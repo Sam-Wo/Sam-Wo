@@ -1,7 +1,5 @@
 ![Peter F. Renz: data science, ML and AI for oncology drug discovery](assets/banner.svg)
 
-![Peter F. Renz: data science, ML and AI for oncology drug discovery](assets/banner.svg)
-
 **Computational oncology scientist. I build data science and ML and AI workflows for cancer drug discovery.**
 
 Senior Scientist at RedRidge Bio in Basel, working on antibody-drug conjugates: target selection, payload strategy and the analysis pipelines behind both. PhD from ETH Zurich; first author of a 2024 *Nature* paper on in-vivo CRISPR screens in tumor evolution.
