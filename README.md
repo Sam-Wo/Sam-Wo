@@ -6,6 +6,8 @@ Senior Scientist at RedRidge Bio in Basel, working on antibody-drug conjugates: 
 
 I pre-register analyses where I can and publish the result either way.
 
+[LinkedIn](https://www.linkedin.com/in/dr-peter-f-renz/)
+
 ### Selected work
 
 ![Project map: one question per project, along the drug discovery path](assets/project_map.svg)
@@ -23,8 +25,8 @@ I pre-register analyses where I can and publish the result either way.
 
 ### Tools
 
-**ML and statistics:** PyTorch, XGBoost, LightGBM, SHAP, scikit-learn, permutation and bootstrap inference
-**Biology data:** single-cell RNA-seq, CRISPR screens, Cell Painting, DepMap, PRISM
+**ML and statistics:** PyTorch, XGBoost, LightGBM, SHAP, scikit-learn, permutation and bootstrap inference  
+**Biology data:** single-cell RNA-seq, CRISPR screens, Cell Painting, DepMap, PRISM  
 **Engineering:** Python, TypeScript, Next.js, FastAPI, Docker, CI
 
 ### Side projects
